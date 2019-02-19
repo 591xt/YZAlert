@@ -8,12 +8,6 @@
 
 <https://github.com/YouZhiZheShiJingCheng/YZAlert>
 
-导入记得勾选拷贝，如图：
-
-![Alt text](http://118.24.89.63:8080/1.png)
-
-![Alt text](http://118.24.89.63:8080/4.png)
-
 ### 2.配置工程      
 
 TARGETS->Build Settings->Other Linker Flags 添加一个  -ObjC
